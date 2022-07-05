@@ -6,6 +6,7 @@ int main()
     int b = 4;
 
     cout << "Here is your desired output : ";
+    cout << "The answer is : ";
     
     cout << a << " + " << b << " = "<< a + b << endl;
 
